@@ -1,0 +1,171 @@
+.class public final synthetic LJ60;
+.super Ljava/lang/Object;
+.source "r8-map-id-39a5fd6059330804833c2374f28b82f3b8aef423af32ebd824babcd2cdcd11b4"
+
+# interfaces
+.implements Lcom/applovin/exoplayer2/l/p$a;
+
+
+# instance fields
+.field public final synthetic a:I
+
+.field public final synthetic b:Lcom/applovin/exoplayer2/a/b$a;
+
+.field public final synthetic c:I
+
+
+# direct methods
+.method public synthetic constructor <init>(Lcom/applovin/exoplayer2/a/b$a;II)V
+    .locals 0
+
+    .line 1
+    iput p3, p0, LJ60;->a:I
+
+    .line 2
+    .line 3
+    iput-object p1, p0, LJ60;->b:Lcom/applovin/exoplayer2/a/b$a;
+
+    .line 4
+    .line 5
+    iput p2, p0, LJ60;->c:I
+
+    .line 6
+    .line 7
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 8
+    .line 9
+    .line 10
+    return-void
+.end method
+
+
+# virtual methods
+.method public final invoke(Ljava/lang/Object;)V
+    .locals 2
+
+    .line 1
+    iget v0, p0, LJ60;->a:I
+
+    .line 2
+    .line 3
+    packed-switch v0, :pswitch_data_0
+
+    .line 4
+    .line 5
+    .line 6
+    iget v0, p0, LJ60;->c:I
+
+    .line 7
+    .line 8
+    check-cast p1, Lcom/applovin/exoplayer2/a/b;
+
+    .line 9
+    .line 10
+    iget-object v1, p0, LJ60;->b:Lcom/applovin/exoplayer2/a/b$a;
+
+    .line 11
+    .line 12
+    invoke-static {v1, v0, p1}, Lcom/applovin/exoplayer2/a/a;->e0(Lcom/applovin/exoplayer2/a/b$a;ILcom/applovin/exoplayer2/a/b;)V
+
+    .line 13
+    .line 14
+    .line 15
+    return-void
+
+    .line 16
+    :pswitch_0
+    iget v0, p0, LJ60;->c:I
+
+    .line 17
+    .line 18
+    check-cast p1, Lcom/applovin/exoplayer2/a/b;
+
+    .line 19
+    .line 20
+    iget-object v1, p0, LJ60;->b:Lcom/applovin/exoplayer2/a/b$a;
+
+    .line 21
+    .line 22
+    invoke-static {v1, v0, p1}, Lcom/applovin/exoplayer2/a/a;->X(Lcom/applovin/exoplayer2/a/b$a;ILcom/applovin/exoplayer2/a/b;)V
+
+    .line 23
+    .line 24
+    .line 25
+    return-void
+
+    .line 26
+    :pswitch_1
+    iget v0, p0, LJ60;->c:I
+
+    .line 27
+    .line 28
+    check-cast p1, Lcom/applovin/exoplayer2/a/b;
+
+    .line 29
+    .line 30
+    iget-object v1, p0, LJ60;->b:Lcom/applovin/exoplayer2/a/b$a;
+
+    .line 31
+    .line 32
+    invoke-static {v1, v0, p1}, Lcom/applovin/exoplayer2/a/a;->J(Lcom/applovin/exoplayer2/a/b$a;ILcom/applovin/exoplayer2/a/b;)V
+
+    .line 33
+    .line 34
+    .line 35
+    return-void
+
+    .line 36
+    :pswitch_2
+    iget v0, p0, LJ60;->c:I
+
+    .line 37
+    .line 38
+    check-cast p1, Lcom/applovin/exoplayer2/a/b;
+
+    .line 39
+    .line 40
+    iget-object v1, p0, LJ60;->b:Lcom/applovin/exoplayer2/a/b$a;
+
+    .line 41
+    .line 42
+    invoke-static {v1, v0, p1}, Lcom/applovin/exoplayer2/a/a;->Q(Lcom/applovin/exoplayer2/a/b$a;ILcom/applovin/exoplayer2/a/b;)V
+
+    .line 43
+    .line 44
+    .line 45
+    return-void
+
+    .line 46
+    :pswitch_3
+    iget v0, p0, LJ60;->c:I
+
+    .line 47
+    .line 48
+    check-cast p1, Lcom/applovin/exoplayer2/a/b;
+
+    .line 49
+    .line 50
+    iget-object v1, p0, LJ60;->b:Lcom/applovin/exoplayer2/a/b$a;
+
+    .line 51
+    .line 52
+    invoke-static {v1, v0, p1}, Lcom/applovin/exoplayer2/a/a;->h(Lcom/applovin/exoplayer2/a/b$a;ILcom/applovin/exoplayer2/a/b;)V
+
+    .line 53
+    .line 54
+    .line 55
+    return-void
+
+    .line 56
+    nop
+
+    .line 57
+    :pswitch_data_0
+    .packed-switch 0x0
+        :pswitch_3
+        :pswitch_2
+        :pswitch_1
+        :pswitch_0
+    .end packed-switch
+.end method

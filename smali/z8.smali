@@ -1,0 +1,25 @@
+.class public final Lz8;
+.super Ljava/lang/Object;
+.source "r8-map-id-39a5fd6059330804833c2374f28b82f3b8aef423af32ebd824babcd2cdcd11b4"
+
+
+# instance fields
+.field public a:I
+
+.field public b:I
+
+.field public c:I
+
+.field public d:I
+
+.field public e:I
+
+.field public f:I
+
+.field public g:I
+
+.field public h:Z
+
+.field public i:Z
+
+.field public j:I

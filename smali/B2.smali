@@ -1,0 +1,29 @@
+.class public interface abstract LB2;
+.super Ljava/lang/Object;
+.source "r8-map-id-39a5fd6059330804833c2374f28b82f3b8aef423af32ebd824babcd2cdcd11b4"
+
+
+# static fields
+.field public static final a:LA2;
+
+
+# direct methods
+.method static constructor <clinit>()V
+    .locals 1
+
+    .line 1
+    new-instance v0, LA2;
+
+    .line 2
+    .line 3
+    invoke-direct {v0}, Ljava/lang/Object;-><init>()V
+
+    .line 4
+    .line 5
+    .line 6
+    sput-object v0, LB2;->a:LA2;
+
+    .line 7
+    .line 8
+    return-void
+.end method
