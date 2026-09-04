@@ -1,0 +1,13 @@
+package com.applovin.exoplayer2.i.d;
+
+/* compiled from: r8-map-id-39a5fd6059330804833c2374f28b82f3b8aef423af32ebd824babcd2cdcd11b4 */
+/* loaded from: classes.dex */
+public final class c implements b {
+    public final String Rp;
+    public final int oX;
+
+    public c(String str, int i) {
+        this.Rp = str;
+        this.oX = i;
+    }
+}

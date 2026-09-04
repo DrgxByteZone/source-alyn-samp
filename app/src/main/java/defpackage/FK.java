@@ -1,0 +1,13 @@
+package defpackage;
+
+import android.view.View;
+
+/* compiled from: r8-map-id-39a5fd6059330804833c2374f28b82f3b8aef423af32ebd824babcd2cdcd11b4 */
+/* loaded from: classes.dex */
+public interface FK extends U30 {
+    void setActivityMode(View view, String str);
+
+    void setPreventNativeDismiss(View view, boolean z);
+
+    void setScreenKey(View view, String str);
+}

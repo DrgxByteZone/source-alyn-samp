@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="_12ssp">36sp</dimen>
+    <dimen name="_15ssp">45sp</dimen>
+    <dimen name="_16ssp">48sp</dimen>
+    <dimen name="_22ssp">66sp</dimen>
+    <dimen name="_25ssp">75sp</dimen>
+    <dimen name="_27ssp">81sp</dimen>
+    <dimen name="_40ssp">120sp</dimen>
+    <dimen name="_43ssp">129sp</dimen>
+    <dimen name="_4sdp">12dp</dimen>
+    <dimen name="_50ssp">150sp</dimen>
+    <dimen name="_70ssp">210sp</dimen>
+    <dimen name="_8ssp">24sp</dimen>
+</resources>

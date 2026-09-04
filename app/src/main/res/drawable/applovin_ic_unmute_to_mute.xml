@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:drawable="@drawable/res_0x7f080005_applovin_ic_unmute_to_mute__0">
+    <target
+        android:name="strike_thru_path"
+        android:animation="@drawable/res_0x7f080006_applovin_ic_unmute_to_mute__1"/>
+    <target
+        android:name="strike_thru_mask"
+        android:animation="@drawable/res_0x7f080007_applovin_ic_unmute_to_mute__2"/>
+    <target
+        android:name="left_corner_mask"
+        android:animation="@drawable/res_0x7f080008_applovin_ic_unmute_to_mute__3"/>
+    <target
+        android:name="right_corner_mask"
+        android:animation="@drawable/res_0x7f080009_applovin_ic_unmute_to_mute__4"/>
+</animated-vector>

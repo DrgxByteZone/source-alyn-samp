@@ -1,0 +1,10 @@
+package defpackage;
+
+import android.view.View;
+
+/* compiled from: r8-map-id-39a5fd6059330804833c2374f28b82f3b8aef423af32ebd824babcd2cdcd11b4 */
+/* renamed from: s40, reason: case insensitive filesystem */
+/* loaded from: classes.dex */
+public interface InterfaceC2241s40 {
+    V50 m(View view, V50 v50, C2322t40 c2322t40);
+}
